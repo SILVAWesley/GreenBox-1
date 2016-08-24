@@ -19,7 +19,7 @@ public class GBFolderTest {
 	String sb3;
 	String sb4;
 
-	@Before
+/*	@Before
 	public void setUp() {
 		dir1 = new GBFolder("parent");
 		dir2 = new GBFolder("son1");
@@ -273,5 +273,5 @@ public class GBFolderTest {
 			e.printStackTrace();
 		}
 
-	}
+	}*/
 }
